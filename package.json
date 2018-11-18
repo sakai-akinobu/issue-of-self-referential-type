@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sakai-akinobu/issue-of-self-reference-type#readme",
   "devDependencies": {
-    "flow-bin": "0.86.0"
+    "flow-bin": "0.86.0",
+    "mocha": "^5.2.0"
   }
 }
